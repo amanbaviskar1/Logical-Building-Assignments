@@ -1,0 +1,1 @@
+//write a java program to find lcm of two numbers Using Prime Factorization
